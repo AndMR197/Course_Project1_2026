@@ -1,2 +1,2 @@
 # Course_Project1_2026
-Front_End_Project1
+Front-End Project 1
